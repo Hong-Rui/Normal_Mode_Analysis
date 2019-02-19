@@ -16,12 +16,18 @@ More details would be commited later...
 5. Calculation of classical or semi-classical (QM formula) vibrational entropy
 
 ## Inputs
-topology (simtk.openmm.openmm.Topology): The OpenMM topology object
-system (simtk.openmm.openmm.System): The OpenMM system object
-integrator (simtk.openmm.openmm.Integrator): The OpenMM integrator object
-initPositions (numpy.array): The N*3 array of positions (N is the number of atoms)
-CPUProp (dictionary=None): The CPU platform-specific properties used for generating simulation object in OpenMM
-CUDAProp (dictionary=None): The CUDA platform-specific properties used for generating simulation object in OpenMM
+### topology (simtk.openmm.openmm.Topology)
+The OpenMM topology object
+### system (simtk.openmm.openmm.System)
+The OpenMM system object
+### integrator (simtk.openmm.openmm.Integrator)
+The OpenMM integrator object
+### initPositions (numpy.array)
+The N*3 array of positions (N is the number of atoms)
+### CPUProp (dictionary=None)
+The CPU platform-specific properties used for generating simulation object in OpenMM
+### CUDAProp (dictionary=None)
+The CUDA platform-specific properties used for generating simulation object in OpenMM
 
 ## Algorithms
 To be added later...
