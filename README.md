@@ -12,7 +12,7 @@ More details would be commited later...
 1. Two step (CPU, followed by GPU accelerated) energy minimization of protein structure before calculating normal modes
 2. Calculating demass-weighted hessian
 3. Obtaining normal modes and their corresponding vibrational frequencies
-4. Plotting vibrational spectrum to be compared with IR data
+4. Plotting vibrational spectrum to be compared with IR spectrum data
 5. Calculation of classical or semi-classical (QM formula) vibrational entropy
 
 ## Inputs
